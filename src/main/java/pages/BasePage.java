@@ -1,9 +1,5 @@
 package pages;
+import constants.IConstants;
 
-import org.openqa.selenium.WebDriver;
-import org.openqa.selenium.support.PageFactory;
-
-
-public class BasePage {
+public class BasePage implements IConstants {
 }
-
